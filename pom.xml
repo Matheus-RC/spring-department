@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>userdet</artifactId>
+	<artifactId>userdept</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>userdet</name>
 	<description>Aula Java Web com Spring Boot</description>
